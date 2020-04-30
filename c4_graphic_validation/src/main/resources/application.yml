@@ -1,0 +1,8 @@
+server:
+  port: 8112
+spring:
+  security:
+    user:
+      name: root
+      password: lucky
+      roles: USER
